@@ -2,7 +2,9 @@
 - vCenter 7
 - NSX-T ALB 21.1.3
 
-Reference: https://avinetworks.com/docs/22.1/roles-and-permissions-for-vcenter-nsx-t-users  
+References:  
+https://avinetworks.com/docs/22.1/roles-and-permissions-for-vcenter-nsx-t-users  
+https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/vsphere_role  
 
 ## Privileges:
 
